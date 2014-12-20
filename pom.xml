@@ -4,11 +4,17 @@
 
   <groupId>kr.geul</groupId>
   <artifactId>dataobject</artifactId>
-  <version>0.1</version>
+  <version>0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>dataobject</name>
   <url>http://maven.apache.org</url>
+
+ <scm>
+  <url>scm:git:git@github.com:geullee/dataobject.git</url>
+  <connection>scm:git:git@github.com:geullee/dataobject.git</connection>
+  <developerConnection>scm:git:git@github.com:geullee/dataobject.git</developerConnection>
+ </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
