@@ -1,5 +1,3 @@
-//commit test
-
 package kr.geul.dataobject;
 
 import java.lang.reflect.InvocationTargetException;
